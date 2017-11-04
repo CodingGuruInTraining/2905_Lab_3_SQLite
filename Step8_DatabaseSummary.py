@@ -64,7 +64,3 @@ if __name__ == '__main__':
     values_in_col(c, table_name, print_out=True) # slow on large data bases
 
     close(conn)
-
-
-    # References:
-    # http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html
